@@ -1,0 +1,84 @@
+/* src/stylesheets/AdminHistory.css */
+.admin-history-container {
+    background-color: #F1EEE5;
+    margin-top: 1vh;
+    margin-left: 1vw;
+    width: 98vw;
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+    border-radius: 20px;
+  }
+  
+  .admin-history-navbar {
+    background-color: #FFFFFF;
+    width: 97.75vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+    padding-left: 1vh;
+    padding-top: 1vh;
+  }
+  
+  .admin-history-table {
+    width: 41.5vw;
+    margin-left: 1vw;
+    background-color: #FEFEFA;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: sticky;
+  }
+  
+  .admin-history-table tr {
+    height: 10vh;
+    border: solid 1px black;
+  }
+  
+  .admin-history-table td {
+    padding-left: 1vw;
+    vertical-align: middle;
+  }
+  
+  .filter-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1vw;
+    margin-bottom: 2vh;
+    padding-left: 1vw;
+  }
+  
+  .filter-container label {
+    font-weight: 700;
+    margin-right: 0.5vw;
+  }
+  
+  .filter-container input,
+  .filter-container select {
+    padding: 0.5vh;
+    border: 1px solid #116D6E;
+    border-radius: 5px;
+  }
+  
+  .download-button {
+    background-color: #14C38E;
+    color: white;
+    padding: 0.5vh 1vw;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5vw;
+  }
+  
+  .sort-button {
+    background-color: #116D6E;
+    color: white;
+    padding: 0.5vh 1vw;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+  }
