@@ -1,6 +1,6 @@
 # Carpooling-dapp
-<b>A decentralized carpooling application based on Ethereum Blockchain.</b>
-
+<b><h1 align="center">A decentralized carpooling application based on Blockchain.</b>
+</h1>
 <details>
 <summary>Table of Contents</summary>
 
