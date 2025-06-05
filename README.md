@@ -21,7 +21,7 @@
 Currently, most carpooling systems are in the control of the industry giants like Ola, Uber and several others. Thave all the data of drivers as well as of riders and this can lead to major privacy issues.
 This project therefore aims to move ride-sharing and car hire are to blockchain in order to build a much more secure and reliable carpooling system that would connect the rider and driver directly using "smart contracts" without the intervention of any third party.
 
-1. **Decentralized Network**: A peer-to-peer carpooling platform based on blockchain operates on a decentralized network, eliminating the need for intermediaries.
+1. **Decentralized Network**: A Carpooling Dapp platform based on blockchain operates on a decentralized network, eliminating the need for intermediaries.
 2. **Secure Transactions**: The platform uses blockchain technology to secure and track transactions between users, ensuring the safety and transparency of financial transactions.
 3. **Smart Contracts**: The platform can be powered by smart contracts, automatically executing the terms of a carpooling agreement without intermediaries.
 4. **Data Privacy**: User data is protected by the immutable and secure nature of blockchain technology, ensuring privacy and security.
@@ -159,7 +159,7 @@ This project therefore aims to move ride-sharing and car hire are to blockchain 
 
 ## 💸Applications
 
-Peer-to-peer carpooling platform based on blockchain has the potential to solve several real-life problems, including:
+Carpooling Dapp based on blockchain has the potential to solve several real-life problems, including:
 
 * **Traffic Congestion**: By incentivizing carpooling, the platform can help reduce the number of cars on the road, reducing traffic congestion and improving sustainability.
 
