@@ -44,11 +44,11 @@ This project therefore aims to move ride-sharing and car hire are to blockchain 
 #### Back-end
 - Node.js [Documentation](https://nodejs.org/en/docs/)
 - Express.js [Documentation](https://devdocs.io/express/)
-- web3storage/IPFS [Documentation](https://web3.storage/docs/)
 - socket.io [Documentation](https://socket.io/docs/v4/)
 
 #### Database
 - MongoDB [Documentation](https://www.mongodb.com/docs/)
+- CORS Blocker [Documentation](https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino)
 
 #### Extensions
 - Metamask [Documentation](https://docs.metamask.io/guide/)
@@ -210,6 +210,6 @@ Execute the backend by running the command:
 ## 👨‍💻Team Members
 
 - [Zainab Pirjade - ](https://github.com/zainab-06-p/Carpooling-dapp) 
-- [Anushka Darunkar - ]
-- [Shreyas Manore- ]
+- Anushka Darunkar 
+- Shreyas Manore
 
