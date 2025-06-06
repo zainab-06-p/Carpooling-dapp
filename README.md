@@ -28,7 +28,7 @@ This project therefore aims to move ride-sharing and car hire are to blockchain 
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/zainab-06-p/Carpooling-dapp)
-- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/1TI-pOOhVZzD3nKPgHq3yxt_7_IsRWv6k?usp=sharing)
+
 
 
 ## 🤖Tech-Stack
