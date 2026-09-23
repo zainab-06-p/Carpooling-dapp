@@ -210,6 +210,6 @@ Execute the backend by running the command:
 ## 👨‍💻Team Members
 
 - [Zainab Pirjade - ](https://github.com/zainab-06-p/Carpooling-dapp) 
-- Anushka Darunkar 
+- - [Anushka Darunkar](https://github.com/Anushka-githubacc)
 - Shreyas Manore
 
